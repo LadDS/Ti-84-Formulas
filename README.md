@@ -5,4 +5,6 @@ Currently has:
 - Quadratic Formula
 - Distance Formula
 - Midpoint Formula
+- Percent Error
+- Average Deviation
 
